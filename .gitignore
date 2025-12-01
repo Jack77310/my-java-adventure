@@ -1,0 +1,7 @@
+# Hide build junk
+target/
+build/
+*.class
+
+# Hide VS Code stuff
+.vscode/
